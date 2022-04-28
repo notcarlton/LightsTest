@@ -1,0 +1,3 @@
+[submodule "lib/BombDetect"]
+	path = lib/BombDetect
+	url = https://github.com/Livesweeper/BombDetect
